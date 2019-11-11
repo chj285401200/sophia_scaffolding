@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sophia_admin_api" />
+        <module name="sophia_admin_biz" />
+        <module name="sophia_auth" />
+        <module name="sophia_common_base" />
+        <module name="sophia_common_config" />
+        <module name="sophia_common_feign" />
+        <module name="sophia_common_security" />
+        <module name="sophia_common_util" />
+        <module name="sophia_eureka" />
+        <module name="sophia_zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sophia_admin" target="1.8" />
+      <module name="sophia_admin_api" target="1.8" />
+      <module name="sophia_admin_biz" target="1.8" />
+      <module name="sophia_auth" target="1.8" />
+      <module name="sophia_common" target="1.8" />
+      <module name="sophia_common_base" target="1.8" />
+      <module name="sophia_common_config" target="1.8" />
+      <module name="sophia_common_feign" target="1.8" />
+      <module name="sophia_common_security" target="1.8" />
+      <module name="sophia_common_util" target="1.8" />
+      <module name="sophia_eureka" target="1.8" />
+      <module name="sophia_scaffolding" target="1.8" />
+      <module name="sophia_zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="sophia_admin_api" options="-parameters" />
+      <module name="sophia_admin_biz" options="-parameters" />
+      <module name="sophia_auth" options="-parameters" />
+      <module name="sophia_common_base" options="-parameters" />
+      <module name="sophia_common_config" options="-parameters" />
+      <module name="sophia_common_feign" options="-parameters" />
+      <module name="sophia_common_security" options="-parameters" />
+      <module name="sophia_common_util" options="-parameters" />
+      <module name="sophia_eureka" options="-parameters" />
+      <module name="sophia_zuul" options="-parameters" />
+    </option>
+  </component>
+</project>

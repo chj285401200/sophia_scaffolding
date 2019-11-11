@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/v2/sophia_scaffolding" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v2/sophia_scaffolding/sophia_admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v2/sophia_scaffolding/sophia_admin/sophia_admin_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v2/sophia_scaffolding/sophia_admin/sophia_admin_biz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v2/sophia_scaffolding/sophia_auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v2/sophia_scaffolding/sophia_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v2/sophia_scaffolding/sophia_common/sophia_common_base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v2/sophia_scaffolding/sophia_common/sophia_common_config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v2/sophia_scaffolding/sophia_common/sophia_common_feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v2/sophia_scaffolding/sophia_common/sophia_common_security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v2/sophia_scaffolding/sophia_common/sophia_common_util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v2/sophia_scaffolding/sophia_eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v2/sophia_scaffolding/sophia_zuul" charset="UTF-8" />
+  </component>
+</project>

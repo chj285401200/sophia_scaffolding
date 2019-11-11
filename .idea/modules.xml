@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/v2/sophia_scaffolding/sophia_admin/sophia_admin.iml" filepath="$PROJECT_DIR$/v2/sophia_scaffolding/sophia_admin/sophia_admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2/sophia_scaffolding/sophia_admin/sophia_admin_api/sophia_admin_api.iml" filepath="$PROJECT_DIR$/v2/sophia_scaffolding/sophia_admin/sophia_admin_api/sophia_admin_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2/sophia_scaffolding/sophia_admin/sophia_admin_biz/sophia_admin_biz.iml" filepath="$PROJECT_DIR$/v2/sophia_scaffolding/sophia_admin/sophia_admin_biz/sophia_admin_biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2/sophia_scaffolding/sophia_auth/sophia_auth.iml" filepath="$PROJECT_DIR$/v2/sophia_scaffolding/sophia_auth/sophia_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2/sophia_scaffolding/sophia_common/sophia_common.iml" filepath="$PROJECT_DIR$/v2/sophia_scaffolding/sophia_common/sophia_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2/sophia_scaffolding/sophia_common/sophia_common_base/sophia_common_base.iml" filepath="$PROJECT_DIR$/v2/sophia_scaffolding/sophia_common/sophia_common_base/sophia_common_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2/sophia_scaffolding/sophia_common/sophia_common_config/sophia_common_config.iml" filepath="$PROJECT_DIR$/v2/sophia_scaffolding/sophia_common/sophia_common_config/sophia_common_config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2/sophia_scaffolding/sophia_common/sophia_common_feign/sophia_common_feign.iml" filepath="$PROJECT_DIR$/v2/sophia_scaffolding/sophia_common/sophia_common_feign/sophia_common_feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2/sophia_scaffolding/sophia_common/sophia_common_security/sophia_common_security.iml" filepath="$PROJECT_DIR$/v2/sophia_scaffolding/sophia_common/sophia_common_security/sophia_common_security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2/sophia_scaffolding/sophia_common/sophia_common_util/sophia_common_util.iml" filepath="$PROJECT_DIR$/v2/sophia_scaffolding/sophia_common/sophia_common_util/sophia_common_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2/sophia_scaffolding/sophia_eureka/sophia_eureka.iml" filepath="$PROJECT_DIR$/v2/sophia_scaffolding/sophia_eureka/sophia_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2/sophia_scaffolding/sophia_scaffolding.iml" filepath="$PROJECT_DIR$/v2/sophia_scaffolding/sophia_scaffolding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2/sophia_scaffolding/sophia_zuul/sophia_zuul.iml" filepath="$PROJECT_DIR$/v2/sophia_scaffolding/sophia_zuul/sophia_zuul.iml" />
+    </modules>
+  </component>
+</project>
